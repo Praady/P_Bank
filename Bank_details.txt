@@ -1,0 +1,2 @@
+Bank name                  IFSC CODE
+Prajwal Bank              PB01002005
